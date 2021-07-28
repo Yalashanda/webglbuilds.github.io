@@ -1,0 +1,3945 @@
+{
+    "PathMap": [
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 2
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 2
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 14,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 7,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 11,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 2
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 2
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 7,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 7,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 6,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 2,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 5,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 9,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 4,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 1,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 8,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 10,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        },
+        {
+            "Direction": 0,
+            "CurvedDirection": 0,
+            "Bridge": 1
+        }
+    ],
+    "FeatureMap": [
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        7,
+        5,
+        7,
+        5,
+        7,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        7,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        7,
+        5,
+        7,
+        5,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        7,
+        0,
+        7,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        7,
+        5,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        5,
+        0,
+        7,
+        7,
+        7,
+        7,
+        7,
+        0,
+        5,
+        7,
+        7,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        7,
+        7,
+        7,
+        7,
+        7,
+        0,
+        5,
+        5,
+        5,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        7,
+        0,
+        7,
+        7,
+        7,
+        7,
+        7,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        7,
+        7,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        7,
+        0,
+        7,
+        7,
+        7,
+        7,
+        7,
+        0,
+        0,
+        0,
+        0,
+        8,
+        5,
+        5,
+        5,
+        5,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        7,
+        7,
+        7,
+        0,
+        0,
+        0,
+        7,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        7,
+        7,
+        5,
+        5,
+        0,
+        7,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "ElevationMap": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "Waves": {
+        "WavesInThisLevel": 2,
+        "SpawnPoints": [
+            {
+                "EnemiesPerEachWave": [
+                    33,
+                    66
+                ],
+                "Data": [
+                    {
+                        "m_typeToSpawn": 7,
+                        "m_numberToSpawn": 10,
+                        "m_wavePartOf": 0,
+                        "m_currentCount": 10,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 3,
+                        "m_numberToSpawn": 5,
+                        "m_wavePartOf": 0,
+                        "m_currentCount": 5,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 6,
+                        "m_numberToSpawn": 10,
+                        "m_wavePartOf": 0,
+                        "m_currentCount": 10,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 0,
+                        "m_numberToSpawn": 3,
+                        "m_wavePartOf": 0,
+                        "m_currentCount": 3,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 6,
+                        "m_numberToSpawn": 5,
+                        "m_wavePartOf": 0,
+                        "m_currentCount": 5,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 8,
+                        "m_numberToSpawn": 15,
+                        "m_wavePartOf": 1,
+                        "m_currentCount": 15,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 11,
+                        "m_numberToSpawn": 1,
+                        "m_wavePartOf": 1,
+                        "m_currentCount": 1,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 12,
+                        "m_numberToSpawn": 15,
+                        "m_wavePartOf": 1,
+                        "m_currentCount": 15,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 10,
+                        "m_numberToSpawn": 10,
+                        "m_wavePartOf": 1,
+                        "m_currentCount": 10,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 14,
+                        "m_numberToSpawn": 20,
+                        "m_wavePartOf": 1,
+                        "m_currentCount": 20,
+                        "m_isElite": [
+                            false
+                        ]
+                    },
+                    {
+                        "m_typeToSpawn": 18,
+                        "m_numberToSpawn": 5,
+                        "m_wavePartOf": 1,
+                        "m_currentCount": 5,
+                        "m_isElite": [
+                            false
+                        ]
+                    }
+                ],
+                "TileIndex": 263
+            }
+        ]
+    },
+    "m_version": {
+        "Major": 0,
+        "Minor": 9,
+        "Sub": 0
+    },
+    "m_levelObjectives": [
+        {
+            "m_objectiveType": 2,
+            "m_intArray": [
+                0,
+                1024
+            ],
+            "m_intArray2": [],
+            "m_floatArray": [],
+            "m_Reward": [
+                3,
+                0,
+                1
+            ],
+            "m_objectiveDescription": "Do not build any Static towers."
+        },
+        {
+            "m_objectiveType": 7,
+            "m_intArray": [],
+            "m_intArray2": [],
+            "m_floatArray": [
+                0.4588139057159424
+            ],
+            "m_Reward": [
+                3,
+                2,
+                1
+            ],
+            "m_objectiveDescription": "Keep the wall strength above 45%."
+        },
+        {
+            "m_objectiveType": 8,
+            "m_intArray": [
+                9
+            ],
+            "m_intArray2": [],
+            "m_floatArray": [],
+            "m_Reward": [
+                2,
+                50
+            ],
+            "m_objectiveDescription": "Spend no more than 8 Building Materials."
+        },
+        {
+            "m_objectiveType": 11,
+            "m_intArray": [
+                351,
+                384,
+                417,
+                450,
+                483,
+                516,
+                517,
+                518,
+                519,
+                520,
+                521,
+                522,
+                523,
+                524,
+                525,
+                526,
+                527,
+                494,
+                461,
+                428,
+                395,
+                362,
+                361,
+                360,
+                393,
+                426,
+                459,
+                492,
+                493,
+                460,
+                427,
+                394,
+                358,
+                357,
+                356,
+                355,
+                354,
+                387,
+                420,
+                453,
+                454,
+                455,
+                456,
+                457,
+                424,
+                391,
+                390,
+                389,
+                388,
+                421,
+                422,
+                423,
+                352,
+                385,
+                418,
+                451,
+                484,
+                350,
+                383,
+                416,
+                449,
+                482,
+                515,
+                153
+            ],
+            "m_intArray2": [],
+            "m_floatArray": [],
+            "m_Reward": [
+                3,
+                1,
+                1
+            ],
+            "m_objectiveDescription": "Do not build any  towers in the highlighted zone."
+        }
+    ],
+    "m_levelSpecificHints": [],
+    "MusicChoice": 1
+}

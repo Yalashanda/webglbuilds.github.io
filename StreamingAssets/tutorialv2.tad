@@ -1,0 +1,64 @@
+{
+    "Items": [        
+        {
+            "Name": "Hello",
+            "Entry": "The Dark Lord Parsmalum has attacked!  His dark magicks threaten our city! $What? Oh this, pay it no mind Apprentice, a small mishap with some transformation chemicals.  Long story short, don’t play with mouse fur. It’s dangerous stuff!$Now, you may just be an apprentice and I’m a mouse (currently), but they don’t call me the Mistress of Alchemy for nothing!",
+			"MobileEntry": ""
+        }
+		,
+        {
+            "Name": "Place_a_tower",
+            "Entry": "This enchanted map shows you the city's surroundings.  Select the <sprite name=\"BallistaTower\"> from the box over there and place it on the map to build it.  $To select a tower left click on the tower in the box.  To deselect a tower right click.",
+			"MobileEntry": "This enchanted map shows you the city's surroundings.  Select the <sprite name=\"BallistaTower\"> from the box over there and place it on the map to build it.  $To select a tower tap the tower in the box.  To deselect a tower tap the icon of the tower on the right side of the screen."
+        }
+		,
+        {
+            "Name": "Econ",
+            "Entry": "Each tower costs 1 Building Mataerial (<sprite name=\"TreasureChest\"> ) to create.  You have Starting Materials which represent the what you will start every map with. $You earn one additional Starting Material every 7 towers you discover or when you complete all the objectives in a level in one playthrough.",
+			"MobileEntry": ""
+        }				
+		,
+        {
+			"Name": "Tower_interm",
+			"Entry": "The towers in the box are your prime ingredients you use to make all other towers.  $To learn more about specific towers  <color=#D80808>look them up in the library (you can find it in the menu)</color> .",
+			"MobileEntry": ""
+        }
+		,
+        {
+			"Name": "Combine_a_tower",
+			"Entry": "To  quickly combine towers select one tower and place it on top of an existing tower.  <color=#D80808>Do it now by placing a <sprite name=\"FireTower\"> on the <sprite name=\"BallistaTower\">  you already built</color>  .  $A quick reference for discovered recipes is in the scroll on the right side of the screen.",
+			"MobileEntry": ""
+        }
+		,
+        {
+            "Name": "Cauldron",
+            "Entry": "Towers with 3 or more steps may require you use the cauldron to create them! $To use the cauldron you just need to place towers in it and hit combine!  If successful, the combined tower will be added to the cauldron inventory (below the cauldron). $From there they can either be recombined with another tower or placed on the map.  $ <color=#D80808> The inventory is emptied at the end of levels, or if the cauldron explodes (it explodes after 3 cracks occur in it).</color> ",
+			"MobileEntry": ""
+        }
+		,
+        {
+            "Name": "Mention_lab",
+            "Entry": "All this combining is fine and good, but  <color=#D80808>you should do your experimenting in the Lab</color>  where the stakes are much lower, after all that's what it is for.  $Failed combinations in the field will explode in your face 9 out of 10 times.  Trust me on that.",
+			"MobileEntry": ""
+        }		
+		,
+        {
+            "Name": "Attrack_an_enemy",
+            "Entry": "Goblins are incoming! Use what I have shown you to set up a defense!$<color=#D80808>Remember, if you click on an enemy you can set them as the priorty target and towers will target them first</color>  $(I'm sure I mentioned that, right? Probably, eh, you'll figure it out)",
+			"MobileEntry": "Goblins are incoming! Use what I have shown you to set up a defense!$<color=#D80808>Remember, if you tap on an enemy you can set them as the priorty target and towers will target them first</color>  $(I'm sure I mentioned that, right? Probably, eh, you'll figure it out)"
+        }		
+		,
+        {
+            "Name": "Objectives",
+            "Entry": "The crown has set quests for each map. Completing these quests will earn us boons, from extra materials to free towers or wall repair!  $The first time you complete all the quests in one go on a map you will earn an additional Starting Building Material!$<color=#D80808>You can view objectives and their status in the menu or on the scroll next to The Phase Gem.</color>",
+			"MobileEntry": ""
+        }
+		,
+        {
+            "Name": "End",
+            "Entry": "Congratulations, you are now ready to start defending the city!  We'll cover anything else that needs to be covered as it comes up. $<color=#D80808>However, one last piece of advice, not all towers work well on there own, learning what towers work well together is going to be one of the challanges you face.</color> $For example a Static Tower paired with a ballista tower makes the latter better at hitting enemies or an Earth Tower will help bunch up enemies for a Trebuchet Tower to pick off.",
+			"MobileEntry": ""
+        }
+
+    ]
+}
